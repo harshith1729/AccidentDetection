@@ -91,9 +91,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Configuration
-YOLO_MODEL_PATH = "/Users/harshith/Downloads/Projects/accidentDetection/best.pt"
-DEFAULT_LAT = 17.3850
-DEFAULT_LON = 78.4867
+#YOLO_MODEL_PATH = # add your path
+#DEFAULT_LAT = #
+#DEFAULT_LON = #
 
 # Twilio Configuration
 TWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID')

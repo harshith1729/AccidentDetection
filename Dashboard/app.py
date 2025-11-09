@@ -53,9 +53,10 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Configuration
-YOLO_MODEL_PATH = r"/Users/harshith/Downloads/Projects/accidentDetection/best.pt"
-DEFAULT_LAT = 17.285000
-DEFAULT_LON = 78.460700
+#YOLO_MODEL_PATH = # add your path
+
+#DEFAULT_LAT = # lat
+#DEFAULT_LON = #long
 API_BASE = 'http://localhost:3000'
 
 # Session state initialization
